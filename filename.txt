@@ -1,0 +1,1 @@
+Robot{direction=SOUTH, position=Position{xAxis=4, yAxis=-1}}
